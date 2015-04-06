@@ -20,6 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
     list(set = set, get = get,
          setMatrix = setMatrix,
          getMatrix = getMatrix)
+         print(m)
 }
 
 
